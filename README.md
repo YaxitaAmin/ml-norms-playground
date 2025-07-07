@@ -1,5 +1,7 @@
 # Vector Norms Analysis Dashboard
 
+https://github.com/user-attachments/assets/4bdbf0f8-8ff3-4f17-96d8-97062bd6a2b9
+
 ## Why I Built This
 
 I was learning about vector norms and got confused about **when to use which norm**. All the theory was there, but I couldn't see the practical differences. So I created this interactive dashboard to actually **see** and **compare** how different norms behave in real applications.
